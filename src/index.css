@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&family=Noto+Nastaliq+Urdu:wght@400..700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.urdu {
+  font-family: "Noto Nastaliq Urdu", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.gulzar-regular {
+  font-family: "Gulzar", serif;
+  font-weight: 400;
+  font-style: normal;
+}
