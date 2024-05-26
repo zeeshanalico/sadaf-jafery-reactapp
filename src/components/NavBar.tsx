@@ -21,10 +21,10 @@ const Navbar: React.FC = () => {
 
   return (
     <nav className="bg-red-600 p-2">
-      <div className="container mx-auto flex justify-between items-center ">
+      <div className="container mx-auto flex justify-between items-center p-5">
         <a href="/">
           <span className="text-white font-semibold cursor-pointer text-3xl">
-            <img src='/logo.png' alt="logo Rohani Amil" width={70} height={50} className="" />
+            {/* <img src='/logo.png' alt="logo Rohani Amil" width={70} height={50} className="" /> */}
 
           </span>
         </a>
