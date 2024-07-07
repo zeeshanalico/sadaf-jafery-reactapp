@@ -80,7 +80,7 @@ const Home: React.FC = () => {
                             </div>
                             <div>
                                 <h3 className="text-2xl">Contact</h3>
-                                <p>Phone: +92 304 0244451<br />Whatsapp: +92 300 0512401<br />Email: info@sadafjaffery.com</p>
+                                <p>Phone: +92 304 0244451<br />Whatsapp: +92 300 0512401<br />Email: info@asadjaffery.com</p>
                             </div>
                             <div>
                                 <h3 className="text-2xl">Location</h3>
@@ -138,7 +138,7 @@ const Home: React.FC = () => {
                                 <p>Contact<br />+92 304 0244451</p>
                                 <p>Whatsapp<br />+92 300 0512401</p>
                             </div>
-                            <p className="mt-4">&copy; 2020 Sadaf Jaffery. All Rights Reserved. <a href="http://www.linkedin.com/in/zeeshanalico" className="hover:underline">Zeeshan Ali</a></p>
+                            <p className="mt-4">&copy; 2020 asadJaffery. All Rights Reserved. <a href="http://www.linkedin.com/in/zeeshanalico" className="hover:underline">Zeeshan Ali</a></p>
                         </footer>
                     </div>
                 </div>

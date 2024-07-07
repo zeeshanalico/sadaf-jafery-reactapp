@@ -5,7 +5,7 @@ const blogs = [
     "post_date": "May 29, 2023",
     "title": "How To Perform Istikhara Namaz For Marriage",
     "excerpt": "Istikhara Namaz is a special prayer seeking guidance from Allah when making a significant decision like marriage. To perform Istikhara, start with ablution (wudu). Pray two rak'ahs (units) of non-obligatory prayer. After completing the prayer, recite the Istikhara supplication: 'Allahumma inni astakheeruka bi-ilmik...' which translates to asking Allah for guidance, knowledge, and the best outcome. Reflect on your decision, seeking a sense of peace and clarity. Perform Istikhara consistently for seven days, trusting Allah to guide you through signs, feelings, or circumstances. This spiritual practice ensures you seek divine wisdom in making the best choice.",
-    "link": "https://www.sadafjaffery.com/how-to-perform-istikhara-namaz-for-marriage/",
+    "link": "https://www.asadjaffery.com/how-to-perform-istikhara-namaz-for-marriage/",
     "thumbnail": "/1.png"
   },
   {
@@ -14,7 +14,7 @@ const blogs = [
     "post_date": "July 17, 2023",
     "title": "Can Istikhara Results Change Over Time",
     "excerpt": "Istikhara is a prayer seeking Allah's guidance in making decisions, including marriage, career choices, and other significant life events. Many wonder if the results of Istikhara can change over time. The answer is yes, they can. Istikhara is not a one-time event but a continuous process of seeking divine guidance. Circumstances, intentions, and one's spiritual state can evolve, leading to different signs and feelings over time. \n It's essential to remain patient and open-hearted, trusting in Allah \' s wisdom. If, after performing Istikhara, you feel confused or uncertain, it may be beneficial to repeat the prayer, reflect on your intentions, and consult with knowledgeable and trusted individuals. Changes in your life situation or newfound insights can also influence the outcome. Ultimately, Istikhara is about aligning your decisions with divine guidance, which may evolve as you grow and your circumstances change",
-    "link": "https://www.sadafjaffery.com/can-istikhara-results-change-over-time/",
+    "link": "https://www.asadjaffery.com/can-istikhara-results-change-over-time/",
     "thumbnail": "/results.jpg"
   },
   {
@@ -23,7 +23,7 @@ const blogs = [
     "post_date": "July 17, 2023",
     "title": "How To Know Your Istikhara Is Answered",
     "excerpt": "Istikhara, a prayer for seeking divine guidance, is a spiritual process that requires patience and attentiveness to subtle signs. Knowing when Istikhara is answered involves several indicators. One of the clearest signs is experiencing a sense of peace and tranquility about your decision. This inner calmness suggests that Allah is guiding you towards the right choice. Pay attention to recurring signs in your daily life; these could come through dreams, conversations, or events that seem to point you in a particular direction. Consistency in these signs can indicate an answer to your Istikhara. If you find that obstacles are removed and things start falling into place effortlessly, it may be a sign that Allah is facilitating the path you should take. Sometimes, guidance comes through advice from trusted and knowledgeable individuals. If multiple people provide similar advice without prior knowledge of your situation, it might be a sign of divine direction. Observing positive changes and outcomes after making a decision based on Istikhara can confirm that your prayer has been answered favorably. It's important to remain patient and open-hearted, understanding that Istikhara is about seeking Allah's wisdom and aligning your choices with His will. If you feel uncertain, continue to pray, reflect, and seek counsel, trusting that Allah will guide you to the best outcome.",
-    "link": "https://www.sadafjaffery.com/how-to-know-your-istikhara-is-answered/",
+    "link": "https://www.asadjaffery.com/how-to-know-your-istikhara-is-answered/",
     "thumbnail": "/answered.jpg"
   },
   {
@@ -32,7 +32,7 @@ const blogs = [
     "post_date": "July 17, 2023",
     "title": "How To Do Istikhara With Tasbeeh Beads",
     "excerpt": "Performing Istikhara with tasbeeh beads is a straightforward yet spiritually enriching process. Start by performing ablution (wudu) to ensure you are in a state of purity. Afterward, hold the tasbeeh beads in your hand. Begin by praying two rak'ahs (units) of non-obligatory prayer with the intention of seeking guidance from Allah. After completing the prayer, take your tasbeeh beads and recite the Istikhara supplication: \"Allahumma inni astakheeruka bi\'ilmik...\" This dua asks for Allah\'s guidance, knowledge, and the best outcome in your decision. Use the tasbeeh beads to keep track of your recitation, allowing you to focus deeply on the prayer. Reflect quietly and sincerely on your decision, seeking a sense of peace and clarity. Repeat this process consistently, ideally for seven days, trusting in Allah to provide guidance through signs, feelings, or circumstances. This practice ensures a mindful and devoted approach to seeking divine wisdom.",
-    "link": "https://www.sadafjaffery.com/how-to-do-istikhara-with-tasbeeh-beads/",
+    "link": "https://www.asadjaffery.com/how-to-do-istikhara-with-tasbeeh-beads/",
     "thumbnail": "/dua.jpg"
   },
   {
@@ -44,7 +44,7 @@ const blogs = [
 Dosra, tasbeeh par \"Ya Shafi\" ka wazeefa karein. Is ism ko kam az kam 100 martaba din mein padhein aur apne roohani aur jismani shifa ki dua karein. Wazifa ke baad, haath uthakar Allah se apne sehet aur quwwat ke liye sincere dua karein.\
 Tisra, roohani ilaj ke liye paak aur halal khana aur paani istemal karein. Har niwala khane se pehle \"Bismillah\" aur khatam par \"Alhamdulillah\" zaroor padhein.\
 Akhir mein, apni zindagi mein nek amal aur sadaqat shamil karein. Yaqeen rakkhein ke roohani ilaj ke sath sath, Allah ki rahmat aur barkat aapki sehet ko behter banayegi.",
-    "link": "https://www.sadafjaffery.com/jismani-kamzori-ka-rohani-ilaj/",
+    "link": "https://www.asadjaffery.com/jismani-kamzori-ka-rohani-ilaj/",
     "thumbnail": "/highbloodpressure.jpg"
   },
   {
@@ -57,7 +57,7 @@ Dusra, tasbeeh par \"Ya Shafi\" aur \"Ya Salam\" ka wazeefa karein. Is ism ko ka
 Tisra, paak aur halal khana aur paani istemal karein. Har niwala khane se pehle \"Bismillah\" aur khatam par \"Alhamdulillah\" zaroor padhein.\
 Chautha, shifa ke liye Quran ki Surah Ash-Shu'ara, ayat 80 ka tilawat karein: \"Wa itha maridtu fahuwa yashfeen\" (Aur jab main beemaar hota hoon to wahi mujhe shifa deta hai). Is ayat ko pani par dam karein aur us pani ko rozeana piyen.\
 Akhir mein, apni zindagi mein nek amal aur sadaqat shamil karein. Yaqeen rakkhein ke roohani ilaj ke sath sath, Allah ki rahmat aur barkat aapki sehat ko behter banayegi.",
-    "link": "https://www.sadafjaffery.com/chest-infection-ka-rohani-ilaj/",
+    "link": "https://www.asadjaffery.com/chest-infection-ka-rohani-ilaj/",
     "thumbnail": "/chestinfection.jpg"
   },
   {
@@ -70,7 +70,7 @@ Dusra, tasbeeh par \"Ya Shafi\" aur \"Ya Hayyu Ya Qayyum\" ka wazeefa karein. Is
 Tisra, Surah Ash-Shura ki ayat 80 ka tilawat karein: \"Wa itha maridtu fahuwa yashfeen\" (Aur jab main beemaar hota hoon to wahi mujhe shifa deta hai). Is ayat ko pani par dam karein aur us pani ko rozeana piyen.\
 Chautha, apni zindagi mein nek amal aur sadaqat shamil karein. Har niwala khane se pehle \"Bismillah\" aur khatam par \"Alhamdulillah\" zaroor padhein.\
 Akhir mein, dua ke sath sath kisi maahir doctor se bhi mashwara zaroor karein, kyunki rohani ilaj ke sath tibbi ilaj bhi zaroori hai. Yaqeen rakkhein ke Allah ki rahmat aur barkat aapki sehat ko behter banayegi aur gurday ki pathri se nijat milegi.",
-    "link": "https://www.sadafjaffery.com/gurday-ki-pathri-ka-rohani-ilaj/",
+    "link": "https://www.asadjaffery.com/gurday-ki-pathri-ka-rohani-ilaj/",
     "thumbnail": "/stomachpain.jpg"
   },
   {
@@ -87,7 +87,7 @@ Tasbeeh: Tasbeeh par \"Ya Shafi\" aur \"Ya Salaam\" ka wazeefa karein. In asma-u
 Pani par dam: Surah Al-Fatiha, Surah Al-Ikhlas, Surah Al-Falaq, aur Surah An-Nas ko 7-7 martaba padhein aur pani par dam karein. Us pani ko rozeana peete rahein.\
 Sadaqat: Apni zindagi mein nek amal aur sadaqat shamil karein. Allah ki rahmat aur barkat hasil karne ke liye gareebon aur mohtaajon ki madad karein.\
 Rohani ilaj ke sath sath kisi maahir doctor se bhi mashwara zaroor karein, kyunki tibbi ilaj bhi zaroori hai. Yaqeen rakkhein ke Allah ki rahmat aur barkat aapki sehat ko behter banayegi aur bawaseer se nijat milegi.",
-    "link": "https://www.sadafjaffery.com/bawaseer-ka-rohani-ilaj-in-quran/",
+    "link": "https://www.asadjaffery.com/bawaseer-ka-rohani-ilaj-in-quran/",
     "thumbnail": "/bawaseer.jpg"
   },
   {
@@ -104,7 +104,7 @@ Pani par dam: Surah Al-Fatiha, Surah Al-Ikhlas, Surah Al-Falaq, aur Surah An-Nas
 Sadaqat: Apni zindagi mein nek amal aur sadaqat shamil karein. Allah ki rahmat aur barkat hasil karne ke liye gareebon aur mohtaajon ki madad karein.\
 Quran Tilawat: Rozana Quran ki tilawat karein aur Allah se apne gunahon ki maghfirat ki dua karein. Quran ka zikr aur tilawat dil ko sukoon aur sakooniyat dene ke liye mufeed hai, jo high blood pressure ko control karne mein madadgar ho sakta hai.\
 Rohani ilaj ke sath sath kisi maahir doctor se bhi mashwara zaroor karein, kyunki tibbi ilaj bhi zaroori hai. Yaqeen rakkhein ke Allah ki rahmat aur barkat aapki sehat ko behter banayegi aur high blood pressure se nijat milegi.",
-    "link": "https://www.sadafjaffery.com/high-blood-pressure-ka-rohani-ilaj/",
+    "link": "https://www.asadjaffery.com/high-blood-pressure-ka-rohani-ilaj/",
     "thumbnail": "/highbloodpressure.jpg"
   },
   {
@@ -113,7 +113,7 @@ Rohani ilaj ke sath sath kisi maahir doctor se bhi mashwara zaroor karein, kyunk
     "post_date": "June 3, 2023",
     "title": "Can Someone Do Istikhara On Your Behalf",
     "excerpt": "Yes, someone can perform Istikhara on your behalf with your permission and good intentions. In Islamic tradition, it is permissible for someone else, such as a knowledgeable and righteous person, to pray Istikhara for you, especially if you are uncertain or unable to perform it yourself due to reasons like illness or unfamiliarity with the prayer. It's important that the person performing Istikhara on your behalf understands the process and sincerely seeks guidance from Allah on your behalf. Their role is to supplicate to Allah for clarity and guidance in your decision-making process.",
-    "link": "https://www.sadafjaffery.com/can-someone-do-istikhara-on-your-behalf/",
+    "link": "https://www.asadjaffery.com/can-someone-do-istikhara-on-your-behalf/",
     "thumbnail": "/behalf.jpg"
   }
 ]

@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
 
           {/* Footer Bottom Section */}
           <div className="text-center text-gray-400 mt-10">
-            <p className="mt-4">&copy; {new Date().getFullYear()} Sadaf Jaffery. All Rights Reserved. <a href="http://www.linkedin.com/in/zeeshanalico" target='_blank' className="hover:underline">Zeeshan Ali</a></p>
+            <p className="mt-4">&copy; {new Date().getFullYear()} asadJaffery. All Rights Reserved. <a href="http://www.linkedin.com/in/zeeshanalico" target='_blank' className="hover:underline">Zeeshan Ali</a></p>
           </div>
         </div>
       </footer>
