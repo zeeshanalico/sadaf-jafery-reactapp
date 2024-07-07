@@ -1,6 +1,6 @@
 const Contact = () => {
     return (
-      <>
+      <div>
         <div className="flex flex-col sm:flex-row justify-between items-center p-8 bg-gray-50 ">
           <div className="flex items-center space-x-4 mb-8 sm:mb-0">
             <div className="flex-shrink-0">
@@ -38,10 +38,10 @@ const Contact = () => {
           <div className='text-2xl md:text-4xl urdu md:mr-10 font-bold text-end'>سید اسد علی جعفری</div>
   
         </div>
-        <div className='text-lg md:text-2xl urdu px-12 text-end leading-loose pb-7 bg-gray-50'>
+        <p className='text-lg md:text-2xl urdu px-12 text-end leading-[3] pb-7 bg-gray-50'>
           علم ایک حقیقت ہے اگر کرنے والا سچا عامل ہو تو . اگر آپ کسی بھی مسلے کا شکار ہیں جیسے من پسند شادی ، والدین کو راضی کرنا ، محبّت میں ناکامی ، شوہر کو راہ راست پر لانا ، شوہر کو ناجائز کاموں سے روکنا ، طلاق کا مسلہ ، تعویذات کی کاٹ ، کالا جادو کا توڑ ، کالا علم کی رکاوٹ ، پسند کا رشتہ ، گھریلو لڑائی جھگڑا ، اولاد کا مسلہ یا جھگڑنا ، محبّت میں ناکامی ، شوہر کو راہ راست پر لانا ، شوہر کو ناجائز کاموں سے روکنا ، طلاق کا مسلہ ، تعویذات کی کاٹ ، کالا جادو کا توڑ ، کالا علم کی رکاوٹ ، پسند کا رشتہ ، گھریلو لڑائی جھگڑا ، اولاد کا مسلہ یا کسی بھی طرح کے مسائل کا شکار ہیں تو فوری سید اسد علی جعفری سے رابطہ کریں اور ان مسائل کا حل کروائیں ۔
-        </div>
-      </>
+        </p>
+      </div>
     );
   }
   
