@@ -30,7 +30,7 @@ const Reviews = () => {
                         <div className="text-sm leading-6">
                             <p className="text-gray-900 m-auto font-semibold">Methew</p>
                             <p className="text-gray-700 mt-2 text-sm leading-6">
-                                “Professor Aamil Syeda Sadaf Jafri provided insightful guidance that has been life-changing. Highly recommended!”
+                                “Syed Asad Jafri provided insightful guidance that has been life-changing. Highly recommended!”
                             </p>
                         </div>
                     </div>

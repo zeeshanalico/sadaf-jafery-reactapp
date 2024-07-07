@@ -9,12 +9,12 @@ const Footer: React.FC = () => {
             <div className="w-full sm:w-1/2 md:w-1/4 mb-6">
               <h4 className="text-xl font-semibold mb-4">About Us</h4>
               <p className="text-gray-400">
-                We are committed to providing the best services. 
-Our mission is to illuminate the mysteries of life through Istikhara, Tarot, Numerology, and Astronomy. We strive to empower individuals with knowledge, promote progress, and foster self-discovery.
-           
+                We are committed to providing the best services.
+                Our mission is to illuminate the mysteries of life through Istikhara, Tarot, Numerology, and Astronomy. We strive to empower individuals with knowledge, promote progress, and foster self-discovery.
+
               </p>
             </div>
-      
+
             <div className="w-full sm:w-1/2 md:w-1/4 mb-6">
               <h4 className="text-xl font-semibold mb-4">Navigation</h4>
               <ul className="text-gray-400">
@@ -25,21 +25,20 @@ Our mission is to illuminate the mysteries of life through Istikhara, Tarot, Num
 
               </ul>
             </div>
-      
+
             {/* Contact Section */}
             <div className="w-full sm:w-1/2 md:w-1/4 mb-6">
               <h4 className="text-xl font-semibold mb-4">Contact Us</h4>
               <ul className="text-gray-400">
-                <li className="mb-2">Email: info@sadafjaffery.com</li>
+                <li className="mb-2">Email: info@asadjafery.com</li>
                 <li className="mb-2">Phone : +92 304 0244451</li>
                 <li className="mb-2">WhatsApp: +92 300 0512401</li>
+                <li className="mb-2">Address: Office, Rawalpindi, Pakistan</li>
 
-                <li className="mb-2">Address: Office, #, Pakistan</li>
-                
-                
+
               </ul>
             </div>
-      
+
             {/* Social Media Section */}
             {/* <div className="w-full sm:w-1/2 md:w-1/4 mb-6">
               <h4 className="text-xl font-semibold mb-4">Follow Us</h4>
@@ -59,10 +58,10 @@ Our mission is to illuminate the mysteries of life through Istikhara, Tarot, Num
               </div>
             </div> */}
           </div>
-      
+
           {/* Footer Bottom Section */}
           <div className="text-center text-gray-400 mt-10">
-          <p className="mt-4">&copy; {new Date().getFullYear()} Sadaf Jaffery. All Rights Reserved. <a href="http://www.linkedin.com/in/zeeshanalico" target='_blank' className="hover:underline">Zeeshan Ali</a></p>
+            <p className="mt-4">&copy; {new Date().getFullYear()} Sadaf Jaffery. All Rights Reserved. <a href="http://www.linkedin.com/in/zeeshanalico" target='_blank' className="hover:underline">Zeeshan Ali</a></p>
           </div>
         </div>
       </footer>

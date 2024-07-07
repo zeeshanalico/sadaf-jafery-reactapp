@@ -57,7 +57,7 @@ const Home: React.FC = () => {
     };
 
     return (
-            <Wrapper>
+            <Wrapper footer={false}>
                 <div className="flex flex-col min-h-screen">
                     <div className="bg-cover bg-center h-screen bg-[url('/contactAsset/contact-us-t-header.jpg')]">
                         <div className="flex flex-col items-center justify-center h-full space-y-4">

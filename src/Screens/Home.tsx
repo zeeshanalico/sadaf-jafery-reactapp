@@ -10,7 +10,7 @@ import FloatingWhatsApp from '../components/FloatingWhatsapp';
 import IntroSection from '../components/IntroSection'
 import Reviews from '../components/Reviews';
 import Services from '../components/Services';
-import IstikharaServices from '../components/IstikharaServices'
+// import IstikharaServices from '../components/IstikharaServices'
 
 export default function Home() {
   return (
@@ -25,7 +25,7 @@ export default function Home() {
       <Reviews />
       <AboutSection />
       <FloatingWhatsApp number='+923000512401' />
-      <IstikharaServices/>
+      {/* <IstikharaServices/> */}
      
       <Footer />
     </>

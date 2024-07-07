@@ -3,14 +3,19 @@ import FloatingWhatsApp from './FloatingWhatsapp';
 import React from 'react';
 import Navbar from './NavBar';
 import Footer from './Footer';
-const Wrapper = ({ children }: { children: React.ReactNode }) => {
+interface Prop {
+    footer?: boolean;
+    navbar?: boolean;
+    children: React.ReactNode;
+}
+const Wrapper = ({ children, footer = true }: Prop) => {
     return (
         <>
             <Navbar />
             {children}
             <FloatingWhatsApp number='+923000512401' />
 
-            <Footer/>
+            {footer && <Footer />}
 
         </>
     );
