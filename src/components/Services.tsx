@@ -23,7 +23,7 @@ const servicesData = [
 ];
 
 const handleClick = () => {
-  const whatsappUrl = `https://wa.me/${'+923001712141'.replace(/\D/g, '')}`;
+  const whatsappUrl = `https://wa.me/${'+923000512401'.replace(/\D/g, '')}`;
   window.open(whatsappUrl, '_blank');
 };
 
@@ -60,7 +60,7 @@ const Services = () => {
                         </svg>
                       </span>
                     </div>
-                    &nbsp;+92-300 1712141
+                    &nbsp;+92-300 0512401
                   </div>
                 </div>
               </div>
