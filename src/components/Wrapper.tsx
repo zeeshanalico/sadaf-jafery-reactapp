@@ -8,7 +8,7 @@ const Wrapper = ({ children }: { children: React.ReactNode }) => {
         <>
             <Navbar />
             {children}
-            <FloatingWhatsApp number='+923001712141' />
+            <FloatingWhatsApp number='+923000512401' />
 
             <Footer/>
 

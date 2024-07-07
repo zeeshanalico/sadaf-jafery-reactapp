@@ -15,7 +15,7 @@ const Contact = () => {
                     height={70}
                     className="mr-2"
                   />
-                  <span className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold text-white bg-purple-600 p-2 rounded-full text-nowrap shadow-md animate-bounce">+92 300 1712141</span>
+                  <span className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold text-white bg-purple-600 p-2 rounded-full text-nowrap shadow-md animate-bounce">+92 300 0512401</span>
                   
   
                 </div>
@@ -27,7 +27,7 @@ const Contact = () => {
                     height={50}
                     className="ml-4"
                   />
-                  <span className="text-lg ml-4 sm:text-xl md:text-2xl lg:text-3xl font-semibold text-white bg-purple-600 p-2 rounded-full text-nowrap shadow-md animate-bounce">+92 300 0051248</span>
+                  <span className="text-lg ml-4 sm:text-xl md:text-2xl lg:text-3xl font-semibold text-white bg-purple-600 p-2 rounded-full text-nowrap shadow-md animate-bounce">+92 304 0244451</span>
                   
   
                 </div>
@@ -35,11 +35,11 @@ const Contact = () => {
               </h2>
             </div>
           </div>
-          <div className='text-2xl md:text-4xl urdu md:mr-10 font-bold text-end'>پروفیسر عامل سیدہ صدف جعفری</div>
+          <div className='text-2xl md:text-4xl urdu md:mr-10 font-bold text-end'>سید اسد علی جعفری</div>
   
         </div>
         <div className='text-lg md:text-2xl urdu px-12 text-end leading-loose pb-7 bg-gray-50'>
-          علم ایک حقیقت ہے اگر کرنے والا سچا عامل ہو تو . اگر آپ کسی بھی مسلے کا شکار ہیں جیسے من پسند شادی ، والدین کو راضی کرنا ، محبّت میں ناکامی ، شوہر کو راہ راست پر لانا ، شوہر کو ناجائز کاموں سے روکنا ، طلاق کا مسلہ ، تعویذات کی کاٹ ، کالا جادو کا توڑ ، کالا علم کی رکاوٹ ، پسند کا رشتہ ، گھریلو لڑائی جھگڑا ، اولاد کا مسلہ یا جھگڑنا ، محبّت میں ناکامی ، شوہر کو راہ راست پر لانا ، شوہر کو ناجائز کاموں سے روکنا ، طلاق کا مسلہ ، تعویذات کی کاٹ ، کالا جادو کا توڑ ، کالا علم کی رکاوٹ ، پسند کا رشتہ ، گھریلو لڑائی جھگڑا ، اولاد کا مسلہ یا کسی بھی طرح کے مسائل کا شکار ہیں تو فوری پروفیسر عامل سیدہ صدف جعفری سے رابطہ کریں اور ان مسائل کا حل کروائیں ۔
+          علم ایک حقیقت ہے اگر کرنے والا سچا عامل ہو تو . اگر آپ کسی بھی مسلے کا شکار ہیں جیسے من پسند شادی ، والدین کو راضی کرنا ، محبّت میں ناکامی ، شوہر کو راہ راست پر لانا ، شوہر کو ناجائز کاموں سے روکنا ، طلاق کا مسلہ ، تعویذات کی کاٹ ، کالا جادو کا توڑ ، کالا علم کی رکاوٹ ، پسند کا رشتہ ، گھریلو لڑائی جھگڑا ، اولاد کا مسلہ یا جھگڑنا ، محبّت میں ناکامی ، شوہر کو راہ راست پر لانا ، شوہر کو ناجائز کاموں سے روکنا ، طلاق کا مسلہ ، تعویذات کی کاٹ ، کالا جادو کا توڑ ، کالا علم کی رکاوٹ ، پسند کا رشتہ ، گھریلو لڑائی جھگڑا ، اولاد کا مسلہ یا کسی بھی طرح کے مسائل کا شکار ہیں تو فوری سید اسد علی جعفری سے رابطہ کریں اور ان مسائل کا حل کروائیں ۔
         </div>
       </>
     );

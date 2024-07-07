@@ -63,7 +63,7 @@ const Home: React.FC = () => {
                         <div className="flex flex-col items-center justify-center h-full space-y-4">
                             <h1 className="text-4xl text-white text-center mb-6">Contact us now</h1>
                             <div className="flex space-x-4">
-                                <a href='tel:+92 300 0051248' className="bg-purple-700 text-white px-6 py-2 hover:bg-purple-600 transition duration-300">
+                                <a href='tel:+92 304 0244451' className="bg-purple-700 text-white px-6 py-2 hover:bg-purple-600 transition duration-300">
                                     Contact
                                 </a>
                                 <a href='/services' className="bg-transparent outline outline-black outline-1 hover:outline-none box-border text-white px-6 py-2 hover:bg-black-700 hover:bg-purple-700 transition duration-300">
@@ -80,7 +80,7 @@ const Home: React.FC = () => {
                             </div>
                             <div>
                                 <h3 className="text-2xl">Contact</h3>
-                                <p>Phone: +92 300 0051248<br />Whatsapp: +92 300 1712141<br />Email: info@sadafjaffery.com</p>
+                                <p>Phone: +92 304 0244451<br />Whatsapp: +92 300 0512401<br />Email: info@sadafjaffery.com</p>
                             </div>
                             <div>
                                 <h3 className="text-2xl">Location</h3>
@@ -135,8 +135,8 @@ const Home: React.FC = () => {
                         <footer className="bg-orange-900 text-white p-4 text-center">
                             <div className=''>
                                 <img src="/contactAsset/astro-footer-icon.png" alt="Footer Icon" className="mx-auto" />
-                                <p>Contact<br />+92 300 0051248</p>
-                                <p>Whatsapp<br />+92 300 1712141</p>
+                                <p>Contact<br />+92 304 0244451</p>
+                                <p>Whatsapp<br />+92 300 0512401</p>
                             </div>
                             <p className="mt-4">&copy; 2020 Sadaf Jaffery. All Rights Reserved. <a href="http://www.linkedin.com/in/zeeshanalico" className="hover:underline">Zeeshan Ali</a></p>
                         </footer>

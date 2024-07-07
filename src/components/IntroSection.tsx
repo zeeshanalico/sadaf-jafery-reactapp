@@ -18,11 +18,11 @@ const IntroSection = () => {
 
       <div className="relative z-20 flex flex-col lg:flex-row lg:items-center lg:space-x-8 gap-10 p-10">
         <div className="lg:w-2/3 flex flex-col justify-center  animate-bounceUpIn">
-        <h2 className="text-white font-bold tracking-tight hover:cursor-pointer text-end text-2xl md:text-4xl urdu hover:text-red-600 self-end transition-colors duration-300">            پروفیسر عامل سیدہ صدف جعفری
+        <h2 className="text-white font-bold tracking-tight hover:cursor-pointer text-end text-2xl md:text-4xl urdu hover:text-red-600 self-end transition-colors duration-300">            سید اسد علی جعفری
           </h2>
           <div className="text-white text-base leading-7 mt-12 ">
             <p className="hover:text-gray-100 transition-colors duration-300 urdu text-right mb-14  leading-loose">
-              پروفیسر عامل سیدہ صدف جعفری ایک بہترین روحانی عامل ہیں۔ ایک تجربہ کار اور قابل اعتماد شخصیت ہیں جو مختلف معاملات کا حل پیش کر سکتے ہیں۔ ان کے پاس مختلف فنون علمی اور روحانیات کی خوبیاں موجود ہوتی ہیں۔ اگر آپ کو کوئی جادوءی مسئلہ، بھوت پریتوں کا سامنا یا کوئی اور روحانی مشکل ہو، تو آپ پروفیسر عامل سیدہ صدف جعفری سے رابطہ کر سکتے ہیں۔ وہ آپ کو اپنی قابلیتوں اور علم کے ذریعے مدد کرتے ہوئے آپ کی مشکل کا حل نکالیں گے۔ اور آپ کی زندگی کو آسان بنانے میں مدد کر سکتے ہیں
+              سید اسد علی جعفری ایک بہترین روحانی عامل ہیں۔ ایک تجربہ کار اور قابل اعتماد شخصیت ہیں جو مختلف معاملات کا حل پیش کر سکتے ہیں۔ ان کے پاس مختلف فنون علمی اور روحانیات کی خوبیاں موجود ہوتی ہیں۔ اگر آپ کو کوئی جادوءی مسئلہ، بھوت پریتوں کا سامنا یا کوئی اور روحانی مشکل ہو، تو آپ سید اسد علی جعفری سے رابطہ کر سکتے ہیں۔ وہ آپ کو اپنی قابلیتوں اور علم کے ذریعے مدد کرتے ہوئے آپ کی مشکل کا حل نکالیں گے۔ اور آپ کی زندگی کو آسان بنانے میں مدد کر سکتے ہیں
             </p>
           </div>
           {/* <Contact /> */}

@@ -31,8 +31,8 @@ Our mission is to illuminate the mysteries of life through Istikhara, Tarot, Num
               <h4 className="text-xl font-semibold mb-4">Contact Us</h4>
               <ul className="text-gray-400">
                 <li className="mb-2">Email: info@sadafjaffery.com</li>
-                <li className="mb-2">Phone : +92 300 0051248</li>
-                <li className="mb-2">WhatsApp: +92 300 1712141</li>
+                <li className="mb-2">Phone : +92 304 0244451</li>
+                <li className="mb-2">WhatsApp: +92 300 0512401</li>
 
                 <li className="mb-2">Address: Office, #, Pakistan</li>
                 
