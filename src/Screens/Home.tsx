@@ -11,15 +11,18 @@ import IntroSection from '../components/IntroSection'
 import Reviews from '../components/Reviews';
 import Services from '../components/Services';
 // import IstikharaServices from '../components/IstikharaServices'
-
+import Stats from '../components/Stats';
+import StorySection from '../components/StorySection';
 export default function Home() {
   return (
     <>
       <Navbar />
-      <InfiniteScrollText />
       <IntroSection />
+      <Stats/>
       <Contact />
+      <StorySection/>
       {/* <TwoImages /> */}
+      <InfiniteScrollText />
       <Services />
       <AstrologyService />
       <Reviews />

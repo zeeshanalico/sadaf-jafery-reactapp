@@ -6,7 +6,18 @@ module.exports = {
       colors: {
         'primary': '#f4afab',
         'secondary': '#f4cbc6',
-        'tertiary': '#f7edf0'
+        'tertiary': '#f7edf0',
+        'btn': '#02614B',
+        'golden': '#BF8A46',
+      },
+      fontSize: {
+        sm: '0.8rem',
+        base: '1rem',
+        xl: '1.25rem',
+        '2xl': '1.563rem',
+        '3xl': '1.953rem',
+        '4xl': '2.441rem',
+        '5xl': '3.052rem',
       },
       lineHeight: {
         '70': '70px',
@@ -33,6 +44,10 @@ module.exports = {
             transform: 'translateY(0)',
           },
         },
+        flip: {
+          '0%': { transform: 'rotateY(0deg)' },
+          '100%': { transform: 'rotateY(180deg)' },
+        },
         scroll: {
           '0%': { transform: 'translateX(100%)' },
           '100%': { transform: 'translateX(-100%)' },
@@ -48,6 +63,8 @@ module.exports = {
         scroll: 'scroll 50s linear infinite',
         slide: 'slide 30s linear infinite', // 30s for 3 images (10s each)
         bounceUpIn: 'bounceUpIn 1s ease-out forwards',
+        flip: 'flip 1s ease-in-out forwards',
+
       },
     },
   },

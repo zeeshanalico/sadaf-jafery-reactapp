@@ -46,19 +46,19 @@ const BlogList = ({ posts }: { posts: BlogPost[] }) => {
                         </div>
                     )}
                     <div className="lg:w-2/3">
-                        <div className='text-2xl my-2 font-bold text-purple-600'>
+                        <div className='text-2xl my-2 font-bold text-btn'>
                             {post.title}
                         </div>
                         <p className="text-gray-800 mb-4 text-balance">{post.excerpt}</p>
                         <div className="text-gray-600 text-sm flex justify-between items-center flex-wrap ">
                             <div>
-                                <span>Published by <a href="#" className="text-purple-500 hover:underline">{post.author}</a></span>
+                                <span>Published by <a href="#" className="text-btn hover:underline">{post.author}</a></span>
                                 <span> on {post.post_date}</span>
                             </div>
                             <div className="flex items-center space-x-2 my-2">
                                 <a href={``} target="_blank" rel="noopener noreferrer" className="text-green-500 hover:text-green-600">
                                 </a>
-                                <a href={`tel:+923040244451`} className="text-blue-500 hover:text-blue-600">
+                                <a href={`tel:+923040244451`} className="text-btn hover:text-btn/80">
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
                                         <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z" />
                                     </svg>
@@ -68,7 +68,7 @@ const BlogList = ({ posts }: { posts: BlogPost[] }) => {
                             <div className="flex items-center space-x-2 my-2">
                                 <a href={``} target="_blank" rel="noopener noreferrer" className="text-green-500 hover:text-green-600">
                                 </a>
-                                <div onClick={handleClick} className="text-blue-500 hover:text-blue-600">
+                                <div onClick={handleClick} className="text-btn hover:text-btn/80">
                                     <span className="[&>svg]:h-7 [&>svg]:w-7">
                                         <svg
                                             xmlns="http://www.w3.org/2000/svg"
@@ -113,16 +113,16 @@ const Page = () => {
 
     return (
         <Wrapper>
-            <div className='bg-gray-50'>
-                <div className='text-center text-4xl py-10 font-bold text-gray-500'>
+            <div className='bg-tertiary '>
+                <div className='text-center text-4xl pt-6 font-bold text-gray-500'>
                     Blogs
                 </div>
                 <BlogList posts={currentPosts} />
-                <div className="flex justify-center my-6">
+                <div className="flex justify-center py-6">
                     <button
                         onClick={handlePreviousPage}
                         disabled={currentPage === 1}
-                        className={`mx-2 px-4 py-2 border rounded ${currentPage === 1 ? 'cursor-not-allowed opacity-50' : 'bg-purple-500 text-white hover:bg-purple-700'}`}
+                        className={`mx-2 px-4 py-2 border rounded ${currentPage === 1 ? 'cursor-not-allowed opacity-50' : 'bg-btn text-white hover:btn/80'}`}
                     >
                         Previous
                     </button>
@@ -130,7 +130,7 @@ const Page = () => {
                     <button
                         onClick={handleNextPage}
                         disabled={currentPage === totalPages}
-                        className={`mx-2 px-4 py-2 border rounded ${currentPage === totalPages ? 'cursor-not-allowed opacity-50' : 'bg-purple-500 text-white hover:bg-purple-700'}`}
+                        className={`mx-2 px-4 py-2 border rounded ${currentPage === totalPages ? 'cursor-not-allowed opacity-50' : 'bg-btn text-white hover:btn/80'}`}
                     >
                         Next
                     </button>

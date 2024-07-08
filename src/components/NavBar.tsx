@@ -20,10 +20,10 @@ const Navbar: React.FC = () => {
   };
 
   return (
-    <nav className="bg-red-600 p-2">
+    <nav className="bg-red-500/65 p-2">
       <div className="container mx-auto flex justify-between items-center p-5">
         <a href="/">
-          <span className="text-white font-semibold cursor-pointer text-3xl">
+          <span className="text-black font-semibold cursor-pointer text-3xl">
             {/* <img src='/logo.png' alt="logo Rohani Amil" width={70} height={50} className="" /> */}
 
           </span>
@@ -37,8 +37,8 @@ const Navbar: React.FC = () => {
               // onMouseLeave={handleMouseLeave}
               onClick={() => handleClickMenu(menuItem.label)}
             >
-              {menuItem.url == 'about' ? <button className='text-white hover:text-red-300' onClick={() => scrollToSection('about')}>about</button> : <a href={menuItem.url} >
-                <span className="text-white hover:text-red-200 hover:underline transition duration-300 cursor-pointer flex items-center lg:px-2">
+              {menuItem.url == 'about' ? <button className='text-black hover:text-red-300' onClick={() => scrollToSection('about')}>about</button> : <a href={menuItem.url} >
+                <span className="text-black hover:text-gray-500 hover:underline transition duration-300 cursor-pointer flex items-center lg:px-2">
                   {menuItem.label}
                   {/* {menuItem.subMenu && (
                   <svg
@@ -72,7 +72,7 @@ const Navbar: React.FC = () => {
           ))}
         </div>
         <button
-          className="md:hidden text-white"
+          className="md:hidden text-black"
           onClick={() => setIsOpen(!isOpen)}
         >
           ☰
@@ -84,9 +84,9 @@ const Navbar: React.FC = () => {
 
 
             <div key={menuItem.id} className="relative">
-              {menuItem.url == 'about' ? <button className='text-white hover:text-red-300' onClick={() => scrollToSection('about')}>about</button> : <a href={menuItem.url} >
+              {menuItem.url == 'about' ? <button className='text-black hover:text-red-300' onClick={() => scrollToSection('about')}>about</button> : <a href={menuItem.url} >
                 <span
-                  className="px-1 py-1 text-white hover:text-red-200 hover:underline transition duration-300 flex items-center cursor-pointer"
+                  className="px-1 py-1 text-black hover:text-gray-50 hover:underline transition duration-300 flex items-center cursor-pointer"
                   onClick={() => handleClickMenu(menuItem.label)}
                 >
                   {menuItem.label}
@@ -111,7 +111,7 @@ const Navbar: React.FC = () => {
                 <div className="pl-4">
                   {menuItem.subMenu.map((subMenuItem) => (
                     <a key={subMenuItem.id} href={subMenuItem.url} passHref>
-                      <span className="block px-2 py-1 text-white hover:text-red-200 hover:underline transition duration-300 cursor-pointer">
+                      <span className="block px-2 py-1 text-black hover:text-red-200 hover:underline transition duration-300 cursor-pointer">
                         {subMenuItem.label}
                       </span>
                     </a>

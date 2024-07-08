@@ -1,7 +1,7 @@
 
 const Reviews = () => {
     return (
-        <div><div className=" bg-gray-50 py-16 sm:py-24">
+        <div><div className=" bg-tertiary py-16 sm:py-24">
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 <div className="mx-auto max-w-xl text-center">
                     {/* <h2 className="text-lg font-semibold leading-8 tracking-tight text-indigo-600">
