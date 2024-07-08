@@ -3,6 +3,11 @@ module.exports = {
   content: ["./src/**/*.{html,js,ts,tsx,jsx}"],
   theme: {
     extend: {
+      colors: {
+        'primary': '#f4afab',
+        'secondary': '#f4cbc6',
+        'tertiary': '#f7edf0'
+      },
       lineHeight: {
         '70': '70px',
       },
