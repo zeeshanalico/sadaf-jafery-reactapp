@@ -1,6 +1,6 @@
 const AstrologyService = () => {
   const handleClick = () => {
-    const whatsappUrl = `https://wa.me/${'+ 92 300 0825124'.replace(/\D/g, '')}`;
+    const whatsappUrl = `https://wa.me/${'+ 923000825124'.replace(/\D/g, '')}`;
     window.open(whatsappUrl, '_blank');
 };
   return (
