@@ -13,7 +13,7 @@ const Wrapper = ({ children, footer = true }: Prop) => {
         <>
             <Navbar />
             {children}
-            <FloatingWhatsApp number='+923000512401' />
+            <FloatingWhatsApp number='+92 3000825124' />
 
             {footer && <Footer />}
 

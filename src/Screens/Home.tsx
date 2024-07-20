@@ -1,5 +1,5 @@
-//whatsapp: +92 300 0512401
-//contact:  +92 304 0244451
+//whatsapp: + 92 300 0825124
+//contact:  +92 300 0512401
 import Navbar from '../components/NavBar'
 import Footer from '../components/Footer';
 import InfiniteScrollText from '../components/InfiniteScroll';
@@ -27,7 +27,7 @@ export default function Home() {
       <AstrologyService />
       <Reviews />
       <AboutSection />
-      <FloatingWhatsApp number='+923000512401' />
+      <FloatingWhatsApp number='+923000825124' />
       {/* <IstikharaServices/> */}
      
       <Footer />

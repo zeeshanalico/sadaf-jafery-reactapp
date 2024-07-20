@@ -15,7 +15,7 @@ const Contact = () => {
                   height={70}
                   className="mr-2"
                 />
-                <span className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold text-black bg-tertiary p-2 rounded-full text-nowrap shadow-md animate-bounce">+92 300 0512401</span>
+                <span className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold text-black bg-tertiary p-2 rounded-full text-nowrap shadow-md animate-bounce">+ 92 300 0825124</span>
               </div>
               <div className="flex items-center justify-center ">
                 <img
@@ -25,7 +25,7 @@ const Contact = () => {
                   height={50}
                   className="ml-4"
                 />
-                <span className="text-lg ml-4 sm:text-xl md:text-2xl lg:text-3xl font-semibold text-black bg-tertiary p-2 rounded-full text-nowrap shadow-md animate-bounce">+92 304 0244451</span>
+                <span className="text-lg ml-4 sm:text-xl md:text-2xl lg:text-3xl font-semibold text-black bg-tertiary p-2 rounded-full text-nowrap shadow-md animate-bounce">+92 300 0512401</span>
               </div>
               <p className="text-md sm:text-lg text-gray-600 italic">Get you problem solved</p>
             </h2>

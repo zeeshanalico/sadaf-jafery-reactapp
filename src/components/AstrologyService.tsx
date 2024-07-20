@@ -1,6 +1,6 @@
 const AstrologyService = () => {
   const handleClick = () => {
-    const whatsappUrl = `https://wa.me/${'+92 300 0512401'.replace(/\D/g, '')}`;
+    const whatsappUrl = `https://wa.me/${'+ 92 300 0825124'.replace(/\D/g, '')}`;
     window.open(whatsappUrl, '_blank');
 };
   return (
@@ -17,13 +17,13 @@ const AstrologyService = () => {
           <div className='flex flex-row justify-center gap-3'>
 
             <div className="justify-center mt-10 flex items-center gap-x-6">
-              <a href="tel:03040244451" className="rounded-md bg-btn hover:bg-btn/80 px-3.5 py-2.5 text-sm font-semibold shadow-sm text-white">
-                0304-0244451
+              <a href="tel:03000512401" className="rounded-md bg-btn hover:bg-btn/80 px-3.5 py-2.5 text-sm font-semibold shadow-sm text-white">
+                0300-0512401
               </a>
             </div>
             <div className="justify-center hover:cursor-pointer mt-10 flex items-center gap-x-6">
               <div onClick={handleClick} className="rounded-md bg-btn hover:bg-btn/80 px-3.5 py-2.5 text-sm font-semibold shadow-sm text-white">
-              +92 300 0512401
+              + 92 300 0825124
               </div>
             </div>
           </div>
